@@ -3,7 +3,7 @@ package Discord
 import com.jessecorbett.diskord.dsl.bot
 
 class Bot {
-    val TOKEN = "Nzc2ODM2ODA1NDMzNDkxNDk2.X66rpw.Xha9p7O1KMPLyJclMg_9FQPcg0M"
+    val TOKEN = "Nzc2ODM2ODA1NDMzNDkxNDk2.X66rpw.pK5ElEN8YlmsrpuQ82CEpXqSxfs"
 
     suspend fun pingpong() {
 
