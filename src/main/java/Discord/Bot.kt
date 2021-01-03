@@ -17,7 +17,6 @@ class Bot {
             commands("!") {
                 command("Hvad skal vi have at spise i morgen?") {
                     reply("\uD83E\uDD37\u200D♂️<@$Emil>\uD83D\uDC40")
-                    delete()
                 }
                 command("Hvad skal vi have at spise i næste uge?"){
                     reply("Mandag: \uD83E\uDD37\u200D♂️" + "\n" +
