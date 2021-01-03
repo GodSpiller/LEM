@@ -5,7 +5,7 @@ import com.jessecorbett.diskord.dsl.command
 import com.jessecorbett.diskord.dsl.commands
 
 class Bot {
-    val TOKEN = "Nzc2ODM2ODA1NDMzNDkxNDk2.X66rpw.UEXSFzkgYYXR18uiekoKxpE-vhU"
+    val TOKEN = "alright then keep your secrets"
     // User ids used for mentioning people
     val Broni = "146227284653637632"
     val Esben = "148814672450027520"
