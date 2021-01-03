@@ -1,16 +1,32 @@
 package Discord
 
 import com.jessecorbett.diskord.dsl.bot
+import com.jessecorbett.diskord.dsl.command
+import com.jessecorbett.diskord.dsl.commands
 
 class Bot {
-    val TOKEN = "Nzc2ODM2ODA1NDMzNDkxNDk2.X66rpw.pK5ElEN8YlmsrpuQ82CEpXqSxfs"
+    val TOKEN = "Nzc2ODM2ODA1NDMzNDkxNDk2.X66rpw.UEXSFzkgYYXR18uiekoKxpE-vhU"
+    // User ids used for mentioning people
+    val Broni = "146227284653637632"
+    val Esben = "148814672450027520"
+    val Emil = "130866695957905408"
+    val Rasmus = "118062123216666626"
 
-    suspend fun pingpong() {
-
+    suspend fun start() {
         bot(TOKEN) {
-            messageCreated {
-                if (it.content == "Oliver") {
-                    it reply "suttar"
+            commands("!") {
+                command("Hvad skal vi have at spise i morgen?") {
+                    reply("\uD83E\uDD37\u200D♂️<@$Emil>\uD83D\uDC40")
+                    delete()
+                }
+                command("Hvad skal vi have at spise i næste uge?"){
+                    reply("Mandag: \uD83E\uDD37\u200D♂️" + "\n" +
+                               "Tirsdag: \uD83E\uDD37\u200D♂️" + "\n" +
+                               "Onsdag: \uD83E\uDD37\u200D♂️" + "\n" +
+                               "Torsdag: \uD83E\uDD37\u200D♂️" + "\n" +
+                               "Fredag: \uD83E\uDD37\u200D♂️" + "\n" +
+                               "Lørdag: \uD83E\uDD37\u200D♂️" + "\n" +
+                               "Søndag: \uD83E\uDD37\u200D♂️" + "\n")
                 }
             }
         }
