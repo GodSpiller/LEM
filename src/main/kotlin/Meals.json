@@ -1,0 +1,621 @@
+
+   [
+    {
+      "name": "Pizza",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Fish n' chips",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Spareribs og pommes",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Fried rice",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Lasagne",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Kylling og rodfrugter",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Burger",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Wok m. Kål og oksekød",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Wok m. Nudler",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Bøfsandwich",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Chili con carne",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Millionbøf",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Boller i karry",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Rugbrød m. Fiskefilet",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Pulled pork burger",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "General Tso m. Sur sød ris",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Laks m. fløde stuvet spinat og pasta",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Cordon bleu m. Ris og karrysovs",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Tarteletter",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Kartoffelsuppe",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Spaghetti Carbonara",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Bøf m. kartoffelmos og bagte grøntsager",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Enchiladas",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "One pot pasta",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "And",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Pad Thai",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Æbleskiver",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Falafler",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Mexicanske pandekager",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Rugbrød m. Sild",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Kyllingeburger",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Kylling og pasta",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Spaghetti og kødsovs",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Kylling i karry",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Szechuan Chicken",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Cajun kyllinge pasta",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Forårsruller",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Flæskestegssandwich",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Mexicansk lasagne",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Flæskestegsburger",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Vietnamesiske forårsruller",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Wok m. Kylling",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Striploin og rösti",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Pandekager",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Kylling og spidskål",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Flammkuchen",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Grøntsagsfad",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Chili dogs",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Gratin",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Goulash",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Fettucini Alfredo",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Rasta pasta",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Miso",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Kartoffelmos og kødboller",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Fried chicken",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Hot wings og rodfrugter",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Burger m. Kylling og spinat",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Hurtig pasta og rodfrugter",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Kål i karry",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Tortillas",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Pasta m. spinat og champignon",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Kyllinge salat med mango og spidskål",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Chicken tikka masala",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Loaded Nachos",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Mørbradgryde",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Halloumi m. courgette and herb cakes",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Chipotle bean and corn shepherds pie",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Forloren hare",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Hotdog",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Mørbrad au vin",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Kylling m. pastasalat",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Spaghetti Alfredo",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Mørbrad",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Kylling med nachospanering og ovnbagte grøntsager",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Durum",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Stadionplatte",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Cuvette og ovnbagte kartofler",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Tykkam og kartoffelsalat",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Kylling og bøf",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Hotwings og salat",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Koteletter m. pommes og majs",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Frikadeller",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Aspargessuppe",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Svineskank",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Pølsemix",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Nuggets",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Pho",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Stegt flæsk",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Kylling med hvidvin m. flødesauce og ris",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Farserede porrer",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Gyros",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Kylling i paprikasovs",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Mungbønne",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Frikadeller",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Rugbrød m. Fiskefrikadeller",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Flæskesteg og kartofler",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Green mung bean coconut",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Frikadelleburger",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Kylling og pommes",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Stjerneskud m. ribeye kartofler og whisneysovs samt dessert",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Baked ziti",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Swanson",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    },
+    {
+      "name": "Spanakopita",
+      "ingredients": [],
+      "cost": null,
+      "frequency": null
+    }
+  ]
