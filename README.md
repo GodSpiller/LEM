@@ -1,5 +1,7 @@
-# LEM
 ## GUIDE TIL AT ADDE EXTERNAL LIBRARIES ##
+
+Libraries ligger i 'lib' mappen
+
 File -> Project Structure -> Under project settings: 'Libraries' -> plusset øverst -> Java -> Tilføj følgende libraries: 
 
 ktor-client-core-jvm
